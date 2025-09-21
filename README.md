@@ -3,8 +3,8 @@
  🚀 About Me
 I'm a passionate developer actively preparing for placements and opportunities in software development. I love building projects that solve real-world problems and am constantly learning new technologies.
 
-- 🔭 I’m currently working on: **Polishing my portfolio projects.**
-- 🌱 I’m currently learning: **Java  (Springboot , Spring )** *[Replace with what you actually know!]*.
+- 🔭 I’m currently working on: **Polishing my Technical Knowledge and Building Real-World Projects through it.**
+- 🌱 I’m currently learning: **Java  (Springboot , Spring )** 
 - 👯 I’m looking to collaborate on: **Open-source projects, innovative web apps.**
 - 📫 How to reach me: sankshepsambhoj825@gmail.com | [My LinkedIn ((https://www.linkedin.com/in/sankshep-sambhoj-5b6a53303/))]
 - ⚡ Fun fact: I can Sketch nature creatures !
@@ -14,7 +14,7 @@ I'm a passionate developer actively preparing for placements and opportunities i
 - **Frontend:** HTML, CSS, React, Javascript
 - **Backend:** Java , PHP 
 - **Database:** Oracle 11g/19C
-- **Tools & Platforms:** Git, GitHub, Vercel
+- **Tools & Platforms:** Git, GitHub, Vercel 
 
 ### 📈 GitHub Stats & Activity
 
